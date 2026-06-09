@@ -1,0 +1,7 @@
+.venv/
+exports/
+cache/
+*.csv
+.env
+
+.env
